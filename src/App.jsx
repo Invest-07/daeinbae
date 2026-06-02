@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <div className="page">
-      <img src="/daeinbae/star.png" className="star star-left" alt="star" />
+      <img src="./Star.png" className="star star-left" alt="star" />
       <div className="center">
         <div className="logo">Owl Rock</div>
         <div className="menu-grid">
@@ -15,7 +15,7 @@ function App() {
           <div className="menu-item">Chat</div>
         </div>
       </div>
-      <img src="/daeinbae/star.png" className="star star-right" alt="star" />
+      <img src="./Star.png" className="star star-right" alt="star" />
     </div>
   )
 }
